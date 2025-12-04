@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS445 - Lab 7
+# lab7c.py
+# Author: Avraham Abel
 
 def function1():
     global authorName
