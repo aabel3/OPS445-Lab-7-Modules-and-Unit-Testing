@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS445 - Lab 7
+# lab7a.py
+# Author: Avraham Abel
 
 # Store one IPv4 address
 class IPAddress:
