@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS445 - Lab 7
+# lab7b.py
+# Author: Avraham Abel
 
 def function1():
     # This variable 'a' is completely unrelated to the variable 'a' in function2():
